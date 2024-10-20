@@ -4,6 +4,9 @@
  */
 
 .app_a01fb1 {
+    /* alt img host: https://i.imgur.com/blufIJj.jpg
+     * src: https://x.com/hotaruzzzz/status/1740233408356519952/photo/1
+     * */
     background-image: url(https://pbs.twimg.com/media/GCaNDcMbwAAZeth?format=jpg&name=orig);
     background-size: cover;
     background-color: rgba(255, 255, 255, 0.6); /* last paramter controls brightness of background image */
